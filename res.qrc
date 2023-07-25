@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="res">
+        <file>img/abort_button.png</file>
+        <file>img/about.png</file>
+        <file>img/bmp_button.png</file>
+        <file>img/config.png</file>
+        <file>img/config_button.png</file>
+        <file>img/default copy.png</file>
+        <file>img/exit.png</file>
+        <file>img/export.png</file>
+        <file>img/logo.png</file>
+        <file>img/open.png</file>
+        <file>img/program.png</file>
+        <file>img/read_write.png</file>
+        <file>img/start_button.png</file>
+        <file>img/txt_button.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>
